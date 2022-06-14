@@ -1,0 +1,17 @@
+print('İki tane sayı girin!')
+a=float(input())
+b=float(input())
+
+toplam= a+ b
+carpim=a*b
+cıkarma=a-b
+bolum=a/b
+
+print('Toplama sonuç=',toplam)
+print('Çıkarma sonuç=',cıkarma)
+print('Çarpım sonuç=',carpim)
+print('Bölme sonuç=',bolum)
+
+
+
+
